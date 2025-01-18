@@ -1,0 +1,15 @@
+format: jb-book
+root: intro
+parts:
+- caption: Part 1
+  chapters:
+  - file: 
+- caption: Part 2
+  numbered: true
+  chapters:
+  - file: 
+- caption: Other
+  numbered: true
+  chapters:
+  - file: zreferences
+  - file: status
